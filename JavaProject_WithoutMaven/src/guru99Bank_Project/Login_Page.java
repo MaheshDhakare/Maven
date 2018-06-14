@@ -18,14 +18,6 @@ By UserName = By.xpath("//input[@name = 'uid']");
 By Password = By.xpath("//input[@name = 'password']");
 By loginButton = By.xpath("//input[@name = 'btnLogin']");
 
-//WebElement validateTitle = driver.findElement(By.xpath("//h2[contains(text(), 'Guru99 Bank')]"));
-
-//WebElement UserName = driver.findElement(By.xpath("//input[@name = 'uid']"));
-
-//WebElement Password = driver.findElement(By.xpath("//input[@name = 'password']"));
-
-//WebElement loginButton = driver.findElement(By.xpath("//input[@name = 'btnLogin']"));
-
 	
 @Test
  public void TestLogin() {
