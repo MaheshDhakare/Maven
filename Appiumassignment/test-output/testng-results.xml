@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="530684" started-at="2018-06-08T07:01:53Z" finished-at="2018-06-08T07:10:44Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="530684" started-at="2018-06-08T07:01:53Z" finished-at="2018-06-08T07:10:44Z">
+      <class name="assignment.chromeAppiumDriver.AppiumChromeTestCases">
+        <test-method status="PASS" signature="Exercise11_Scripts_for_webBrowser_chrome()[pri:0, instance:assignment.chromeAppiumDriver.AppiumChromeTestCases@282ba1e]" name="Exercise11_Scripts_for_webBrowser_chrome" duration-ms="79156" started-at="2018-06-08T12:31:53Z" finished-at="2018-06-08T12:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise11_Scripts_for_webBrowser_chrome -->
+      </class> <!-- assignment.chromeAppiumDriver.AppiumChromeTestCases -->
+      <class name="assignment.appDemo.AppiumAppDemoTestCases">
+        <test-method status="PASS" signature="Exercise01_Verify_navigate_By_3_Activities()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise01_Verify_navigate_By_3_Activities" duration-ms="53501" started-at="2018-06-08T12:33:12Z" finished-at="2018-06-08T12:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise01_Verify_navigate_By_3_Activities -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="18780" started-at="2018-06-08T12:34:06Z" finished-at="2018-06-08T12:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise02_Verify_scroll_activity_and_print_activity_list()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise02_Verify_scroll_activity_and_print_activity_list" duration-ms="17677" started-at="2018-06-08T12:34:25Z" finished-at="2018-06-08T12:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise02_Verify_scroll_activity_and_print_activity_list -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="1195" started-at="2018-06-08T12:34:42Z" finished-at="2018-06-08T12:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise03_Verify_On_Off_Button_after_and_before_toggle()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise03_Verify_On_Off_Button_after_and_before_toggle" duration-ms="8444" started-at="2018-06-08T12:34:44Z" finished-at="2018-06-08T12:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise03_Verify_On_Off_Button_after_and_before_toggle -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="8926" started-at="2018-06-08T12:34:52Z" finished-at="2018-06-08T12:35:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise04_Verify_views_controls_lighttheme()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise04_Verify_views_controls_lighttheme" duration-ms="30992" started-at="2018-06-08T12:35:01Z" finished-at="2018-06-08T12:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise04_Verify_views_controls_lighttheme -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="19633" started-at="2018-06-08T12:35:32Z" finished-at="2018-06-08T12:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise05_Verify_Views_expandableList_customAdapter()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise05_Verify_Views_expandableList_customAdapter" duration-ms="14352" started-at="2018-06-08T12:35:52Z" finished-at="2018-06-08T12:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise05_Verify_Views_expandableList_customAdapter -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="11629" started-at="2018-06-08T12:36:06Z" finished-at="2018-06-08T12:36:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise06_Verify_views_spinner()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise06_Verify_views_spinner" duration-ms="25120" started-at="2018-06-08T12:36:18Z" finished-at="2018-06-08T12:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise06_Verify_views_spinner -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="8705" started-at="2018-06-08T12:36:43Z" finished-at="2018-06-08T12:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise07_Verify_views_rotatingButton()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise07_Verify_views_rotatingButton" duration-ms="29595" started-at="2018-06-08T12:36:51Z" finished-at="2018-06-08T12:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise07_Verify_views_rotatingButton -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="8448" started-at="2018-06-08T12:37:21Z" finished-at="2018-06-08T12:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise08_Verify_layouts_scrollView_Long()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise08_Verify_layouts_scrollView_Long" duration-ms="103135" started-at="2018-06-08T12:37:29Z" finished-at="2018-06-08T12:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise08_Verify_layouts_scrollView_Long -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="15524" started-at="2018-06-08T12:39:13Z" finished-at="2018-06-08T12:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise09_Verify_views_textClock()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise09_Verify_views_textClock" duration-ms="22143" started-at="2018-06-08T12:39:28Z" finished-at="2018-06-08T12:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise09_Verify_views_textClock -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="12362" started-at="2018-06-08T12:39:50Z" finished-at="2018-06-08T12:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+        <test-method status="PASS" signature="Exercise10_Verify_views_visibility()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="Exercise10_Verify_views_visibility" duration-ms="32543" started-at="2018-06-08T12:40:03Z" finished-at="2018-06-08T12:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exercise10_Verify_views_visibility -->
+        <test-method status="PASS" signature="setViewsActivity()[pri:0, instance:assignment.appDemo.AppiumAppDemoTestCases@61443d8f]" name="setViewsActivity" is-config="true" duration-ms="8810" started-at="2018-06-08T12:40:35Z" finished-at="2018-06-08T12:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setViewsActivity -->
+      </class> <!-- assignment.appDemo.AppiumAppDemoTestCases -->
+    </test> <!-- Tests -->
+  </suite> <!-- Suite -->
+</testng-results>

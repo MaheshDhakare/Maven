@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Tests">
+    <classes> 	   	   
+ 	   <class name="assignment.chromeAppiumDriver.AppiumChromeTestCases"/>  
+ 	   <methods> 	   
+ 	   <include name="Exercise11_Scripts_for_webBrowser_chrome" />  	    	   
+ 	   </methods> 	   
+ 	   <class name="assignment.appDemo.AppiumAppDemoTestCases"/>  
+ 	   <methods> 	   
+ 	   <include name="Exercise01_Verify_navigate_By_3_Activities" />
+ 	   <include name="Exercise02_Verify_scroll_activity_and_print_activity_list" />
+ 	   <include name="Exercise03_Verify_On_Off_Button_after_and_before_toggle" />
+ 	   <include name="Exercise04_Verify_views_controls_lighttheme" />
+ 	   <include name="Exercise05_Verify_Views_expandableList_customAdapter" />
+ 	   <include name="Exercise06_Verify_views_spinner" />
+ 	   <include name="Exercise07_Verify_views_rotatingButton" />
+ 	   <include name="Exercise08_Verify_layouts_scrollView_Long" />
+ 	   <include name="Exercise09_Verify_views_textClock" />
+ 	   <include name="Exercise10_Verify_views_visibility" /> 	    	   
+ 	   </methods>
+
+ 	       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Tests(failed)">
+    <classes>
+      <class name="assignment.chromeAppiumDriver.AppiumChromeTestCases">
+        <methods>
+          <include name="Exercise11_Scripts_for_webBrowser_chrome"/>
+        </methods>
+      </class> <!-- assignment.chromeAppiumDriver.AppiumChromeTestCases -->
+      <class name="assignment.appDemo.AppiumAppDemoTestCases">
+        <methods>
+          <include name="setViewsActivity"/>
+        </methods>
+      </class> <!-- assignment.appDemo.AppiumAppDemoTestCases -->
+    </classes>
+  </test> <!-- Tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->
