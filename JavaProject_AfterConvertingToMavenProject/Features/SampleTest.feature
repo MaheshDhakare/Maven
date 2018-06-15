@@ -7,3 +7,4 @@ Scenario: Verify user
 Scenario: Verify user1
 	Given open page
 	Then login successful
+	
