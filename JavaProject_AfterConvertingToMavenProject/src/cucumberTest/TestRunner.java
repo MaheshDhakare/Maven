@@ -12,6 +12,6 @@ import cucumber.api.junit.Cucumber;
 		glue = "TestFolder"
 		
 		)
-public class SimpleTest {
+public class TestRunner {
 
 }
