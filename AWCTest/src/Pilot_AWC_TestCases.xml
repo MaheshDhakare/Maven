@@ -2,7 +2,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="com.sqs.awc.AwcPilot"/>
+      <class name="com.test.awc.AwcPilot"/>
       <methods>
       <include name = "AWC_createItemtypeItem"/>
       <include name = "AWC_initiateTCMReleaseworkflowOnitem"/>
