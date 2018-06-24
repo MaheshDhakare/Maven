@@ -1,5 +1,6 @@
 package TestFolder;
 
+import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -19,13 +20,7 @@ public class LoginTestcode {
 		System.out.println("User clicked on My account");
 	}
 
-	@Then("^User is taken to My account page$")
-	public void user_is_taken_to_My_account_page()  {
-
-		System.out.println("Use is on My account page");
-	}
-
-	@When("^User enters correct username and password$")
+	@And("^User enters correct username and password$")
 	public void user_enters_correct_username_and_password()  {
 
 		System.out.println("User enters correct username and password ");
